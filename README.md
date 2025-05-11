@@ -26,7 +26,7 @@ Predicting Amazon Customer Review Score SVM
 `review_headline` - Название обзора<br>
 `review_body` - Текст обзора<br>
 `review_date` - Дата написания обзора<br><br>
-https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset
+[https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset](https://www.kaggle.com/datasets/cynthiarempel/amazon-us-customer-reviews-dataset?select=amazon_reviews_us_Books_v1_02.tsv)
 
 ---
 
